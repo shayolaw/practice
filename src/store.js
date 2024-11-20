@@ -9,6 +9,6 @@ export default configureStore({
   reducer: {
     venue: venueReducer,
     av: avReducer,
-     meals: mealsReducer,
+    meals: mealsReducer,
   },
 });
